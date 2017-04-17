@@ -1,0 +1,184 @@
+@charset "utf-8";
+
+.fruit .head {
+	border-bottom: 2px solid #ff734b;
+	color: #5a5a5a;
+	background-color: #f7f7f7;
+} 
+.fruit .h_l strong{
+	background-image: url(../images/clz.jpg);
+}
+.fruit .i_left {
+	background-image: url(../images/g1_1.jpg);
+}
+.fruit .i_left .t {
+	color: #fff;
+}
+.fruit .i_left .t span strong{
+	color: #e9575c;
+}
+.fruit .f a{
+	color: #ffb299;
+}
+.fruit .pt {
+	background-image: url(../images/g1_2.jpg);
+}
+.fruit .pt div h2{
+	color: #75393c;
+}
+.veget .head {
+	border-bottom: 2px solid #ff734b;
+	color: #5a5a5a;
+	background-color: #f7f7f7;
+} 
+.veget .h_l strong{
+	background-image: url(../images/sc.jpg);
+}
+.veget .i_left {
+	background-image: url(../images/g2_1.jpg);
+}
+.veget .i_left .t {
+	color: #fff;
+}
+.veget .i_left .t span strong{
+	color: #e9575c;
+}
+.veget .f a{
+	color: #ffb299;
+}
+.veget .pt {
+	background-image: url(../images/g2_2.jpg);
+}
+.veget .pt div h2{
+	color: #75393c;
+}
+.meat .head {
+	border-bottom: 2px solid #ff734b;
+	color: #5a5a5a;
+	background-color: #f7f7f7;
+} 
+.meat .h_l strong{
+	background-image: url(../images/qr.jpg);
+}
+.meat .i_left {
+	background-image: url(../images/g3_1.jpg);
+}
+.meat .i_left .t {
+	color: #fff;
+}
+.meat .i_left .t span strong{
+	color: #e9575c;
+}
+.meat .f a{
+	color: #ffb299;
+}
+.meat .pt {
+	background-image: url(../images/g3_2.jpg);
+}
+.meat .pt div h2{
+	color: #75393c;
+}
+.sea .head {
+	border-bottom: 2px solid #ff734b;
+	color: #5a5a5a;
+	background-color: #f7f7f7;
+} 
+.sea .h_l strong{
+	background-image: url(../images/hx.jpg);
+}
+.sea .i_left {
+	background-image: url(../images/g4_1.jpg);
+}
+.sea .i_left .t {
+	color: #fff;
+}
+.sea .i_left .t span strong{
+	color: #e9575c;
+}
+.sea .f a{
+	color: #ffb299;
+}
+.sea .pt {
+	background-image: url(../images/g4_2.jpg);
+}
+.sea .pt div h2{
+	color: #75393c;
+}
+.freeze .head {
+	border-bottom: 2px solid #ff734b;
+	color: #5a5a5a;
+	background-color: #f7f7f7;
+} 
+.freeze .h_l strong{
+	background-image: url(../images/sd.jpg);
+}
+.freeze .i_left {
+	background-image: url(../images/g5_1.jpg);
+}
+.freeze .i_left .t {
+	color: #fff;
+}
+.freeze .i_left .t span strong{
+	color: #e9575c;
+}
+.freeze .f a{
+	color: #ffb299;
+}
+.freeze .pt {
+	background-image: url(../images/g5_2.jpg);
+}
+.freeze .pt div h2{
+	color: #75393c;
+}
+.dessert .head {
+	border-bottom: 2px solid #ff734b;
+	color: #5a5a5a;
+	background-color: #f7f7f7;
+} 
+.dessert .h_l strong{
+	background-image: url(../images/yl.jpg);
+}
+.dessert .i_left {
+	background-image: url(../images/g6_1.jpg);
+}
+.dessert .i_left .t {
+	color: #fff;
+}
+.dessert .i_left .t span strong{
+	color: #e9575c;
+}
+.dessert .f a{
+	color: #ffb299;
+}
+.dessert .pt {
+	background-image: url(../images/g6_2.jpg);
+}
+.dessert .pt div h2{
+	color: #75393c;
+}
+.corn .head {
+	border-bottom: 2px solid #ff734b;
+	color: #5a5a5a;
+	background-color: #f7f7f7;
+} 
+.corn .h_l strong{
+	background-image: url(../images/wg.jpg);
+}
+.corn .i_left {
+	background-image: url(../images/g7_1.jpg);
+}
+.corn .i_left .t {
+	color: #fff;
+}
+.corn .i_left .t span strong{
+	color: #e9575c;
+}
+.corn .f a{
+	color: #ffb299;
+}
+.corn .pt {
+	background-image: url(../images/g7_2.jpg);
+}
+.corn .pt div h2{
+	color: #75393c;
+}
